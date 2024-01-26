@@ -33,7 +33,7 @@ flutter:
 
   
   assets:
-    - images/diamond.png
+    - images/
 
   
   # fonts:
